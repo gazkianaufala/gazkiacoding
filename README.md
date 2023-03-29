@@ -1,0 +1,2 @@
+# gazkiacoding
+Percobaan di gazkiacoding
